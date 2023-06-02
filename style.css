@@ -1,0 +1,29 @@
+.june{
+ float:right;
+}
+
+.name{
+	text-align:center;
+}
+
+.demo{
+ background-color:skyblue;
+ color:blue;
+ border-style:solid;
+ padding:5px 5px;
+ text-align:center;
+}
+h1{
+ color:skyblue;
+}
+h3{
+ color:skyblue;
+}
+h5{
+ color:skyblue;
+}
+h4{
+ color:blue;
+ background-color:skyblue;
+ padding:5px 5px;
+}
